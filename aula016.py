@@ -8,4 +8,4 @@ elif entrada == 'sair':
     print('Você saiu do sistema!')
 else:
     print('Opção inválida. Didite "Entrar" ou "Sair"')
-    
+print('fora do bloco')
