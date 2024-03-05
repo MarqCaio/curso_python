@@ -22,4 +22,4 @@ else:
 
 if 10 == 10:
     print('Outro if')
-print('fora do if')
+print('comando fora do if')

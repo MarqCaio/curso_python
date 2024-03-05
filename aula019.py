@@ -8,6 +8,7 @@ OP      Significado         Exemplo (True)
 ==      igual               'a' == 'a'
 !=      diferente           'a' != 'b'
 """
+
 maior = 2 > 1
 maio_ou_igual = 2 >= 2
 menor = 1 < 2
