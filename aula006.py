@@ -8,5 +8,5 @@
 
 print(int('1'), type(int('1')))
 print(type(float('1') + 1))
-print(bool(' ')) # String vazia é sonsiderado Falso
-print(str(13) + 'ts')
+print(bool('')) # String vazia é considerado Falso
+print(str(13) + 'TS')
