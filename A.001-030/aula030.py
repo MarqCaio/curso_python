@@ -34,4 +34,3 @@ if local_carro >= (LOCAL_1 - RADAR_RANGE) and \
         velocidade > RADAR_1:
     print('Carro multado em radar 1')
 '''
-
