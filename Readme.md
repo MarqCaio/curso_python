@@ -1,1 +1,1 @@
-Aulas de python pela udemy.
+Aulas de python.
